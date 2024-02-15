@@ -1,0 +1,12 @@
+name: Vokaly_Babinec
+title: Vokaly_Babinec
+username: michal-babinec
+account: michal-babinec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11233874
+bundleId: 8259230
+url: https://michal-babinec.shinyapps.io/Vokaly_Babinec/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
